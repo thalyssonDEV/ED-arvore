@@ -1,0 +1,13 @@
+C:/Users/jpaul/OneDrive/Documentos/ellane_trabaio/build/CMakeFiles/avl_tree_lib.dir
+C:/Users/jpaul/OneDrive/Documentos/ellane_trabaio/build/CMakeFiles/avl_tree.dir
+C:/Users/jpaul/OneDrive/Documentos/ellane_trabaio/build/CMakeFiles/demo_casos.dir
+C:/Users/jpaul/OneDrive/Documentos/ellane_trabaio/build/CMakeFiles/run_demo.dir
+C:/Users/jpaul/OneDrive/Documentos/ellane_trabaio/build/CMakeFiles/run_interactive.dir
+C:/Users/jpaul/OneDrive/Documentos/ellane_trabaio/build/CMakeFiles/run_all.dir
+C:/Users/jpaul/OneDrive/Documentos/ellane_trabaio/build/CMakeFiles/clean_all.dir
+C:/Users/jpaul/OneDrive/Documentos/ellane_trabaio/build/CMakeFiles/edit_cache.dir
+C:/Users/jpaul/OneDrive/Documentos/ellane_trabaio/build/CMakeFiles/rebuild_cache.dir
+C:/Users/jpaul/OneDrive/Documentos/ellane_trabaio/build/CMakeFiles/list_install_components.dir
+C:/Users/jpaul/OneDrive/Documentos/ellane_trabaio/build/CMakeFiles/install.dir
+C:/Users/jpaul/OneDrive/Documentos/ellane_trabaio/build/CMakeFiles/install/local.dir
+C:/Users/jpaul/OneDrive/Documentos/ellane_trabaio/build/CMakeFiles/install/strip.dir

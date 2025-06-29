@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libavl_tree_lib.a CMakeFiles/avl_tree_lib.dir/avl_tree.c.obj
+C:\msys64\ucrt64\bin\ranlib.exe libavl_tree_lib.a
